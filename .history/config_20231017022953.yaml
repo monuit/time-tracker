@@ -1,0 +1,2 @@
+browser: "Brave"  # or "Edge"
+multi_threading: True # or False

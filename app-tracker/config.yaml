@@ -1,0 +1,3 @@
+browser: "Brave"  # or "Edge"
+multi_threading: False # or False
+save_data: True  # True for saving the data, False for debugging

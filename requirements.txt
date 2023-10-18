@@ -1,0 +1,5 @@
+pandas
+pygetwindow
+pynput
+pyyaml
+pyarrow

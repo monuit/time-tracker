@@ -1,0 +1,5 @@
+./history
+*.parquet
+env/
+data/
+notes.txt
